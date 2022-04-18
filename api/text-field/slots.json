@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "items": [
+    {
+      "name": "append",
+      "description": "输入框内部 文字之后添加一个内容"
+    },
+
+    {
+      "name": "append-outer",
+      "description": "输入框外部 文字之后添加一个内容"
+    },
+
+    {
+      "name": "prepend",
+      "description": "输入框内部 文字之前添加一个内容"
+    },
+
+    {
+      "name": "prepend-outer",
+      "description": "输入框外部 文字之前添加一个内容"
+    }
+  ],
+  "message": "获取输入框插槽成功",
+  "total": 4
+}

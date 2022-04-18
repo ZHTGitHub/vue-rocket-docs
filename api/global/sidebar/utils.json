@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "items": [
+    {
+      "value": "utils",
+      "icon": "mdi-hammer-wrench",
+      "label": "utils",
+      "link": "/JSUtil",
+      "children": [
+        {
+          "value": "tools",
+          "icon": "",
+          "label": ["Tools", "工具"],
+          "link": "/utils/tools"
+        }
+      ]
+    }
+  ],
+  "message": "获取utils成功",
+  "total": 1
+}
