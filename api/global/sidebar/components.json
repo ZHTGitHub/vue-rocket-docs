@@ -9,12 +9,6 @@
           "value": "button",
           "label": ["Button", "按钮"],
           "link": "/components/button"
-        },
-
-        {
-          "value": "typography",
-          "label": ["Typography", "排版"],
-          "link": "/components/typography"
         }
       ]
     },
@@ -24,9 +18,9 @@
       "label": "导航",
       "children": [
         {
-          "value": "dropdown",
-          "label": ["Dropdown", "下拉列表"],
-          "link": "/components/dropdown"
+          "value": "virtualScroll",
+          "label": ["VirtualScroll", "虚拟滚动条"],
+          "link": "/components/virtualScroll"
         },
 
         {
@@ -117,6 +111,18 @@
         "value": "upload",
         "label": ["Upload", "上传"],
         "link": "/components/upload"
+      }
+    ]
+   },
+
+   {
+    "value": "show",
+    "label": "数据展示",
+    "children": [
+      {
+        "value": "image",
+        "label": ["Image", "图片"],
+        "link": "/components/image"
       }
     ]
    },
