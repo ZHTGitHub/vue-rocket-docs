@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7a08"],{"782c":function(t,n,e){"use strict";e.r(n),e.d(n,"DemoJSUtil",(function(){return a}));var u=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"js-util"},[e("router-view")],1)},i=[],l={name:"JSUtil"},c=l,r=e("2877"),s=Object(r["a"])(c,u,i,!1,null,null,null),a=s.exports;n["default"]=a}}]);
-//# sourceMappingURL=chunk-2d0d7a08.3c46e78a.js.map

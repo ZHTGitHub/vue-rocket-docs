@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d2ae9"],{"5a18":function(t,e,a){"use strict";a.r(e);var l=function(){var t=this,e=t._self._c;return e("div",{staticClass:"z-demo-typograhpy"},[e("typing-title",{attrs:{title:t.$route.meta.title}}),e("ZTypography.Title",{attrs:{level:2,editable:""}},[t._v(" vue rocket ")])],1)},n=[],o={name:"ZDemoTypograhpy",methods:{onClick(){alert()}}},i=o,r=a("2877"),s=Object(r["a"])(i,l,n,!1,null,null,null),p=s.exports;e["default"]=p}}]);
+//# sourceMappingURL=chunk-2d0d2ae9.01ff775a.js.map

@@ -138,9 +138,9 @@
       "label": "其它",
       "children": [
         {
-          "value": "drawImage",
-          "label": ["DrawImage", "绘图"],
-          "link": "/components/drawImage"
+          "value": "drawingBoard",
+          "label": ["DrawingBoard", "画板"],
+          "link": "/components/drawingBoard"
         }
       ]
     }

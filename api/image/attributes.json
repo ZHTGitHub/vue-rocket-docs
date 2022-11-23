@@ -2,39 +2,48 @@
   "code": 200,
   "items": [
     {
-      "name": "blocks",
+      "name": "col-align",
       "required": "否",
-      "type": "Number | String",
-      "acceptedValues": "—",
-      "default": "5",
-      "description": "等比例分割图片宽高，用于设置每次放大缩小图片的宽高."
+      "type": "String",
+      "acceptedValues": "start | center | end",
+      "default": "center",
+      "description": "图像垂直方向对齐方式."
     },
 
     {
-      "name": "max-times",
+      "name": "min-zoom-out",
       "required": "否",
-      "type": "Number | String",
+      "type": "Number",
       "acceptedValues": "—",
-      "default": "2",
-      "description": "图片最大放大倍数."
+      "default": "0.5",
+      "description": "图像缩小的最小倍数."
     },
 
     {
-      "name": "min-times",
+      "name": "move-space",
       "required": "否",
-      "type": "Number | String",
-      "acceptedValues": "—",
-      "default": "0.25",
-      "description": "图片最小缩小倍数."
-    },
-
-    {
-      "name": "scroll-range",
-      "required": "否",
-      "type": "Number | String",
+      "type": "Number",
       "acceptedValues": "—",
       "default": "50",
-      "description": "滚动条每次滚动距离."
+      "description": "图像每次平移距离."
+    },
+
+    {
+      "name": "proportion",
+      "required": "否",
+      "type": "Number",
+      "acceptedValues": "—",
+      "default": "—",
+      "description": "图像较短一边占视图的比例."
+    },
+
+    {
+      "name": "row-align",
+      "required": "否",
+      "type": "String",
+      "acceptedValues": "left | center | right",
+      "default": "center",
+      "description": "图像水平方向对齐方式."
     },
 
     {
@@ -43,18 +52,9 @@
       "type": "String",
       "acceptedValues": "—",
       "default": "—",
-      "description": "图片地址."
-    },
-
-    {
-      "name": "width",
-      "required": "否",
-      "type": "Number | String",
-      "acceptedValues": "—",
-      "default": "—",
-      "description": "图像宽度."
+      "description": "图像地址."
     }
   ],
   "message": "获取成功!",
-  "total": 6
+  "total": 3
 }

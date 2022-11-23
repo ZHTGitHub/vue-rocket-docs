@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2160b1"],{c17d:function(n,e,o){"use strict";o.r(e);var t=function(){var n=this,e=n._self._c;return e("div",{staticClass:"demo-form"},[e("router-view")],1)},r=[],s={name:"ZDemoForm"},u=s,c=o("2877"),a=Object(c["a"])(u,t,r,!1,null,null,null),i=a.exports;e["default"]=i}}]);
+//# sourceMappingURL=chunk-2d2160b1.7dad43ff.js.map
